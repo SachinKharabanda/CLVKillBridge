@@ -1,0 +1,6 @@
+# You can use a single number, 'min-max', 'min, max', a two-element list, or a section with min/max.
+pve-exp: '1-5'      # monsters
+pvp-exp: '5-10'    # players
+
+enabled-worlds: [ ] # empty = all worlds
+debug: false
